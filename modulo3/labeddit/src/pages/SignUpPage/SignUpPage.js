@@ -1,6 +1,6 @@
+import React from 'react';
 
-
-export const SingInPage = () => {
+export const SignUpPage = () => {
     return (
         <div>
             <p>Nome</p>
